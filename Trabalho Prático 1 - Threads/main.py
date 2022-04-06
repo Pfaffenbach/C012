@@ -28,7 +28,6 @@ def carro(marcha):
             # Tempo entre uma resposta e outra
             time.sleep(2)
             
-
 print("Entrei no carro")
 chave = True
 time.sleep(2)
